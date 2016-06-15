@@ -1,2 +1,5 @@
+.idea
+algorithms-java/out
+*.class
 .DS_Store
-
+*.pyc
